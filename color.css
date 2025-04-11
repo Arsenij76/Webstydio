@@ -35,3 +35,29 @@ color: #2F303A;
 .grey {
     color: darkgrey;
 }
+.web-blue,
+.stydio-dark {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+header,
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+}
+h2,
+button,
+h4 {
+   font-family: 'Roboto', sans-serif;
+  font-weight: 700; 
+}
+body,
+footer {
+   font-family: 'Roboto', sans-serif;
+  font-weight: 400; 
+}
