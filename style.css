@@ -1,0 +1,85 @@
+:root {
+  --blue: #2196F3;
+  --dark: #2F303A;
+  --white: #ffffff;
+  --grey: darkgrey;
+}
+
+.web-blue {
+  color: var(--blue);
+}
+
+.stydio-dark {
+  color: var(--dark);
+}
+
+.button1 {
+  background-color: var(--blue);
+  color: var(--white);
+}
+
+.p-white {
+  color: var(--white);
+}
+
+.section_dark {
+  background-color: var(--dark);
+}
+
+.dark {
+  color: var(--dark);
+}
+
+.header-white {
+  background-color: var(--white);
+}
+
+.white {
+  background-color: var(--white);
+}
+
+.back-dark {
+  background-color: var(--dark);
+}
+
+.stydio-white {
+  color: var(--white);
+}
+
+.a-white {
+  color: var(--white);
+}
+
+.grey {
+  color: var(--grey);
+}
+
+.web-blue,
+.stydio-dark {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+header,
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+}
+
+h2,
+button,
+h4 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+body,
+footer {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
