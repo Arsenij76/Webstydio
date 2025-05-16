@@ -12,6 +12,14 @@ body {
   color: var(--dark);
   background-color: var(--white);
 }
+.container {
+  width: 100%;
+  max-width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 215px;  
+  padding-right: 215px; 
+}
 
 .header-link-web, 
 .header-link-studio, 
