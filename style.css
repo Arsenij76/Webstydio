@@ -78,14 +78,14 @@ img {
   padding: 60px 0;
 }
 
-.main-hero {
+.hero {
   text-align: center;
   padding: 60px 0;
   background-color: var(--dark);
   color: var(--white);
 }
 
-.main-hero-title {
+.hero-title {
   font-size: 44px;
   margin-bottom: 30px;
   max-width: 700px;
@@ -93,7 +93,7 @@ img {
   margin-right: auto;
 }
 
-.main-hero-button {
+.hero-button {
   font-size: 16px;
   padding: 10px 32px;
   border: none;
@@ -126,17 +126,17 @@ img {
   color: var(--grey);
 }
 
-.main-activity {
+.activity {
   padding: 60px 0;
   text-align: center;
 }
 
-.main-activity-title {
+.activity-title {
   font-size: 36px;
   margin-bottom: 30px;
 }
 
-.main-activity-list {
+.activity-list {
   display: flex;
   gap: 30px;
   list-style: none;
@@ -144,24 +144,24 @@ img {
   margin: 0;
 }
 
-.main-activity-img {
+.activity-img {
   width: 100%;
   height: auto;
   display: block;
 }
 
-.main-team {
+.team {
   background-color: var(--dark_white);
   padding: 60px 0;
   text-align: center;
 }
 
-.main-team-title {
+.team-title {
   font-size: 36px;
   margin-bottom: 30px;
 }
 
-.main-team-list {
+.team-list {
   display: flex;
   gap: 30px;
   list-style: none;
@@ -169,24 +169,24 @@ img {
   margin: 0;
 }
 
-.main-team-item {
+.team-item {
   flex: 1;
   background-color: var(--white);
   border-radius: 4px;
   overflow: hidden;
 }
 
-.main-team-img {
+.team-img {
   width: 100%;
   height: auto;
 }
 
-.main-team-name {
+.team-name {
   font-size: 18px;
   margin-top: 16px;
 }
 
-.main-team-role {
+.team-role {
   font-size: 14px;
   color: var(--grey);
   margin-bottom: 16px;
@@ -199,8 +199,7 @@ img {
 }
 
 .footer-logo,
-.footer-link-web,
-.footer-link-studio {
+.footer-link-web {
   font-size: 24px;
   font-weight: 700;
   text-decoration: none;
@@ -227,7 +226,9 @@ img {
   margin-bottom: 10px;
 }
 
---портфоліо-- .main-filter-list {
+--портфоліо-- 
+
+.main-filter-list {
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
