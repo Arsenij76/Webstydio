@@ -103,11 +103,11 @@ img {
   border-radius: 4px;
 }
 
-.main-features {
+.features {
   padding: 60px 0;
 }
 
-.main-features-list {
+.features-list {
   display: flex;
   gap: 30px;
   list-style: none;
@@ -115,13 +115,13 @@ img {
   margin: 0;
 }
 
-.main-features-title {
+.features-title {
   font-size: 18px;
   text-transform: uppercase;
   margin-bottom: 10px;
 }
 
-.main-features-text {
+.features-text {
   font-size: 14px;
   color: var(--grey);
 }
